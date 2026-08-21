@@ -1,0 +1,6 @@
+{
+  "name": "SmileCraft Dental Studio",
+  "description": "Modern dental clinic portal for appointments, WhatsApp/Email follow-ups, E2EE secure consultations, and patient reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
